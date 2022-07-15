@@ -249,3 +249,4 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not in
 2022.07.15 11:23:36 WARN  no build target for: E:\UCSC\SCS2204 Functional Programming\tutorial3\5.scala
 2022.07.15 11:24:16 WARN  no build target for: E:\UCSC\SCS2204 Functional Programming\tutorial3\5.scala
 2022.07.15 11:25:42 WARN  no build target for: E:\UCSC\SCS2204 Functional Programming\tutorial3\1.scala
+2022.07.15 11:34:56 INFO  shutting down Metals
